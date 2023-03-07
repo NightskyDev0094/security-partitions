@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Avenir-Book";
+  src: url("Assets/Fonts/Avenir/AvenirLTStd-Book.otf");
+}
+
+@font-face {
+  font-family: "Avenir-Roman";
+  src: url("Assets/Fonts/Avenir/AvenirLTStd-Roman.otf");
+}
+
+@font-face {
+  font-family: "Avenir-Black";
+  src: url("Assets/Fonts/Avenir/AvenirLTStd-Black.otf");
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
